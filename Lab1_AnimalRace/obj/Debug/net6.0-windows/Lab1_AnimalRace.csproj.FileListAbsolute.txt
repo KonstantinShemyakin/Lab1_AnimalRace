@@ -1,0 +1,5 @@
+E:\PatternProgramming\Lab1_AnimalRace\Lab1_AnimalRace\obj\Debug\net6.0-windows\Lab1_AnimalRace.csproj.AssemblyReference.cache
+E:\PatternProgramming\Lab1_AnimalRace\Lab1_AnimalRace\obj\Debug\net6.0-windows\Lab1_AnimalRace.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatternProgramming\Lab1_AnimalRace\Lab1_AnimalRace\obj\Debug\net6.0-windows\Lab1_AnimalRace.AssemblyInfoInputs.cache
+E:\PatternProgramming\Lab1_AnimalRace\Lab1_AnimalRace\obj\Debug\net6.0-windows\Lab1_AnimalRace.AssemblyInfo.cs
+E:\PatternProgramming\Lab1_AnimalRace\Lab1_AnimalRace\obj\Debug\net6.0-windows\Lab1_AnimalRace.csproj.CoreCompileInputs.cache
